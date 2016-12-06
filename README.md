@@ -1,0 +1,2 @@
+# SKCloudServiceSetupViewControllerSample
+iOS 10.1 SKCloudServiceSetupViewController implementation sample
